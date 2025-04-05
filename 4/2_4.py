@@ -31,5 +31,4 @@ def main():
 
     print("Результаты сохранены в файлы: emails.txt, phones.txt, capital_words.txt")
 
-if __name__ == '__main__':
-    main()
+print(main())
